@@ -16,11 +16,13 @@
 
 ### 图片
 - 网络图片
-   - <img src='url' width = "500" height = "200" alt="d" align=center />
+   - <img src='https://github.com/Jackthebighead/techs/blob/master/markdown/pic_example.jpeg?raw=true' width = "500" height = "300" alt="d" align=center />
       -  如果是github上的图片，在url后面加上？raw=true
 - 本地图片
-   - '<img src="pics_lecture1/Untitled.png" width = "500" height = "250" alt="d" align=center />
-   - ![url](url)
+   - '<img src="pic_example.jpeg" width = "500" height = "300" alt="d" align=center />
+  
+   - ![pic_example.jpeg](pic_example.jpeg)
+  
 
 ### 代码段
 - ```python
@@ -28,4 +30,4 @@
   ```
 
 ### 网址
-
+- [百度](www.baidu.com)
