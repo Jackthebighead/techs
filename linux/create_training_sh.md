@@ -14,4 +14,7 @@
        chmod +x  xxx.sh
        mkdir log
        ./train.sh
+       
+       cd log
+       tail -f xxx.log
     ```
