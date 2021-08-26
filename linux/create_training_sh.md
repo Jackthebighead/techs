@@ -11,7 +11,7 @@
        CUDA_VISIBLE_DEVICES=0 nohup python train.py >> log/train.log 2>&1 & （ >> ：连续两个>>表示日志append写入log文件）
        :wq
        
-       chomd +x  xxx.sh
+       chmod +x  xxx.sh
        mkdir log
        ./train.sh
     ```
