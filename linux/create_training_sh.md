@@ -20,5 +20,6 @@
        
        '''kill the process'''
        ps -ef | grep nohup
-       ps -ef | grep train.sh
+       ps -ef | grep python
+       ps -ef|grep xxx.py
     ```
