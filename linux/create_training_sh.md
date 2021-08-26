@@ -17,4 +17,8 @@
        
        cd log
        tail -f xxx.log
+       
+       '''kill the process'''
+       ps -ef | grep nohup
+       ps -ef | grep train.sh
     ```
